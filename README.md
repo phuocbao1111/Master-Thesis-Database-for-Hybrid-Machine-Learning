@@ -1,1 +1,1 @@
-# Master-Thesis---Database-for-Hybrid-Machine-Learning
+# Master-Thesis-Database-for-Hybrid-Machine-Learning
